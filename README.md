@@ -42,7 +42,7 @@ Este repositório é pessoal e público, voltado ao aprendizado. Se você é out
 
 Você pode me encontrar em:
 - [LinkedIn](www.linkedin.com/in/kaike-yury)
-- Email: kaikeybt.dev@gmail.com (substitua com seu email real)
+- Email: kaikeybt.dev@gmail.com
 
 ---
 
