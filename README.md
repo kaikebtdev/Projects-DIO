@@ -1,6 +1,6 @@
-# ⚙️ Estudos de Infraestrutura & DevOps - Kaike Yury
+# ⚙️ Projetos DIO - Digital Innovation One 
+Este repositório contém todos os projetos desenvolvidos por mim durante os cursos e bootcamps da Digital Innovation One (DIO). Ele é atualizado constantemente conforme avanço nos estudos e desafios propostos pela plataforma. Nele contém projetos e práticas voltadas para o universo de **DevOps**, **Linux**, **containers**, e **infraestrutura como código**. Aqui desenvolvo desde scripts de automação até integrações completas com backend, banco de dados e redes em ambiente containerizado.
 
-Este repositório concentra meus estudos, projetos e práticas voltadas para o universo de **DevOps**, **Linux**, **containers**, e **infraestrutura como código**. Aqui desenvolvo desde scripts de automação até integrações completas com backend, banco de dados e redes em ambiente containerizado.
 
 ## 👨‍💻 Sobre mim
 
